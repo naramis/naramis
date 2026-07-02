@@ -1,8 +1,6 @@
 <div align="center">
 
 
-<img width="1036" height="54" alt="phf60g" src="https://github.com/user-attachments/assets/7c891f7c-9779-4468-9ef7-0e1c8a8b8a67" />
-
 <img width="99" height="56" alt="9e60ig" src="https://github.com/user-attachments/assets/43b9d408-7a75-415f-894b-76f8a5a05e8a" />
 
 ***[main](https://github.com/opioiid) , [rentry](https://rentry.co/guidomista) , [atabook](https://mista.atabook.org/)***
